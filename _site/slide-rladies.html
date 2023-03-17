@@ -10,7 +10,7 @@
   <meta name="generator" content="quarto-1.2.335">
 
   <meta name="author" content="R-Ladies São Paulo">
-  <title>Análise de dados com R - Conhecendo a R-Ladies São Paulo</title>
+  <title>Análise de dados abertos com R - Conhecendo a R-Ladies São Paulo</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -325,7 +325,7 @@
 
 <section id="title-slide" data-background-color="#562457" class="quarto-title-block center">
   <h1 class="title">Conhecendo a R-Ladies São Paulo</h1>
-  <p class="subtitle">Oficina de Introdução ao R</p>
+  <p class="subtitle">Análise de Dados Abertos com R</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -335,7 +335,7 @@
 </div>
 </div>
 
-  <p class="date">Invalid Date</p>
+  <p class="date">18/03/2023</p>
 </section>
 <section id="o-que-é-a-r-ladies" class="slide level2">
 <h2>O que é a R-Ladies?</h2>
@@ -418,7 +418,7 @@
 </div>
 </div>
 <div class="footer">
-<p>Atualizado em: 11/2022. Fonte: <a href="https://benubah.github.io/r-community-explorer/rladies.html">R Community Explorer</a></p>
+<p>Atualizado em: 03/2023. Fonte: <a href="https://benubah.github.io/r-community-explorer/rladies.html">R Community Explorer</a></p>
 </div>
 </section>
 <section id="r-ladies-no-brasil" class="slide level2">
@@ -481,7 +481,7 @@
 </div>
 </div>
 <div class="footer">
-<p>Atualizado em: 11/2022. Fonte: <a href="https://benubah.github.io/r-community-explorer/rladies.html">R Community Explorer</a></p>
+<p>Atualizado em: 03/2023. Fonte: <a href="https://benubah.github.io/r-community-explorer/rladies.html">R Community Explorer</a></p>
 </div>
 </section>
 <section id="r-ladies-no-brasil-1" class="slide level2">
@@ -533,7 +533,7 @@
 </div>
 </div>
 <div class="footer">
-<p>Atualizado em: 11/2022. Fonte: <a href="https://benubah.github.io/r-community-explorer/rladies.html">R Community Explorer</a></p>
+<p>Atualizado em: 03/2023. Fonte: <a href="https://benubah.github.io/r-community-explorer/rladies.html">R Community Explorer</a></p>
 </div>
 </section>
 <section id="r-ladies-em-são-paulo" class="slide level2">
@@ -541,15 +541,28 @@
 
 <img data-src="https://beatrizmilz.github.io/slidesR/rladies/img/1meetupsp.jpeg" style="width:65.0%" class="r-stretch quarto-figure-center"><ul>
 <li><p><strong>Primeiro encontro da R-Ladies São Paulo</strong> - 2018</p></li>
-<li><p><strong>+ 1340 pessoas participantes</strong> - 11/2022</p></li>
+<li><p><strong>+ 1340 pessoas participantes</strong> - 03/2023</p></li>
 </ul>
 </section>
+<section id="gugudadados" class="slide level2">
+<h2>GuGuDaDados</h2>
+<p>Primeira edição em novembro/2022.</p>
+
+<img data-src="images/paste-8147A312.png" style="width:45.0%" class="r-stretch quarto-figure-center"></section>
+<section id="blog-rladies-sp.org" class="slide level2">
+<h2>Blog: rladies-sp.org</h2>
+<ul>
+<li>Textos escritos por pessoas da comunidade</li>
+</ul>
+
+<img data-src="images/paste-BECC2A71.png" class="r-stretch quarto-figure-center"></section>
 <section id="saiba-mais-sobre-a-r-ladies" class="slide level2">
 <h2>Saiba mais sobre a R-Ladies</h2>
 <ul>
 <li><p>R-Ladies Global: <a href="https://rladies.org/">Website</a>, <a href="https://twitter.com/rladiesglobal"><i class="fab fa-twitter"></i> Twitter</a></p></li>
 <li><p>R-Ladies São Paulo:</p>
 <ul>
+<li>Blog: <a href="https://rladies-sp.org/" class="uri">https://rladies-sp.org/</a></li>
 <li><a href="https://twitter.com/RLadiesSaoPaulo"><i class="fab fa-twitter"></i> Twitter</a></li>
 <li><a href="https://instagram.com/RLadiesSaoPaulo"><i class="fab fa-instagram"></i> Instagram</a></li>
 <li><a href="https://facebook.com/RLadiesSaoPaulo"><i class="fab fa-facebook"></i> Facebook</a></li>
@@ -557,7 +570,6 @@
 <li><a href="https://github.com/R-Ladies-Sao-Paulo"><i class="fab fa-github"></i> GitHub</a></li>
 <li><a href="https://www.youtube.com/c/RLadiesSãoPaulo"><i class="fab fa-youtube"></i> Youtube</a></li>
 </ul></li>
-<li><p><a href="https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil">Capítulos da R-Ladies no Brasil</a> - Não tem capítulo na sua cidade e quer iniciar um? Saiba como em <a href="https://rladies.org/about-us/help/">R-Ladies - How do get involved</a>!</p></li>
 </ul>
 <!-- inicio font awesome -->
 <script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
@@ -785,12 +797,15 @@
       // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
       // slide changes (different for each slide format).
       (function () {
-        function fireSlideChanged(previousSlide, currentSlide) {
-
-          // dispatch for htmlwidgets
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
           const event = window.document.createEvent("Event");
           event.initEvent("slideenter", true, true);
           window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
 
           // dispatch for shiny
           if (window.jQuery) {
@@ -801,13 +816,6 @@
               window.jQuery(currentSlide).trigger("shown");
             }
           }
-        }
-
-        // hookup for reveal
-        if (window.Reveal) {
-          window.Reveal.addEventListener("slidechanged", function(event) {
-            fireSlideChanged(event.previousSlide, event.currentSlide);
-          });
         }
 
         // hookup for slidy

@@ -1,8 +1,8 @@
 ---
 title: "Conhecendo a R-Ladies São Paulo"
-subtitle: "Oficina de Introdução ao R"
+subtitle: "Análise de Dados Abertos com R"
 author: "[R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/)"
-date: "26 de Novembro de 2022"
+date: "2023-03-18"
 format: 
   rladies-revealjs:
     footer: "Slides feitos com [Quarto](https://quarto.org/docs/presentations/revealjs/index.html) e [Quarto R-Ladies Theme](https://github.com/beatrizmilz/quarto-rladies-theme#quarto-r-ladies-theme)."
@@ -130,12 +130,26 @@ knitr::include_graphics("https://beatrizmilz.github.io/slidesR/rladies/img/1meet
 
 -   **+ `r pessoas_participantes` pessoas participantes** - `r format(Sys.Date(), format='%m/%Y')`
 
+## GuGuDaDados
+
+Primeira edição em novembro/2022.
+
+![](images/paste-8147A312.png){fig-align="center" width="45%"}
+
+
+## Blog: rladies-sp.org
+
+-   Textos escritos por pessoas da comunidade
+
+![](images/paste-BECC2A71.png){fig-align="center"}
+
 ## Saiba mais sobre a R-Ladies
 
 -   R-Ladies Global: [Website](https://rladies.org/), [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/rladiesglobal)
 
 -   R-Ladies São Paulo:
 
+    -   Blog: <https://rladies-sp.org/>
     -   [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/RLadiesSaoPaulo)
     -   [<i class="fab fa-instagram"></i> Instagram](https://instagram.com/RLadiesSaoPaulo)
     -   [<i class="fab fa-facebook"></i> Facebook](https://facebook.com/RLadiesSaoPaulo)
@@ -143,7 +157,6 @@ knitr::include_graphics("https://beatrizmilz.github.io/slidesR/rladies/img/1meet
     -   [<i class="fab fa-github"></i> GitHub](https://github.com/R-Ladies-Sao-Paulo)
     -   [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/RLadiesSãoPaulo)
 
--   [Capítulos da R-Ladies no Brasil](https://github.com/R-Ladies-Sao-Paulo/RLadies-Brasil) - Não tem capítulo na sua cidade e quer iniciar um? Saiba como em [R-Ladies - How do get involved](https://rladies.org/about-us/help/)!
 
 <!-- inicio font awesome -->
 
