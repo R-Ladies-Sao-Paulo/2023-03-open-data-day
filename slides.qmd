@@ -5,6 +5,7 @@ format: html
 editor: visual
 ---
 
-| Slide                                                                  | Ministrante |
-|------------------------------------------------------------------------|-------------|
-| [Conhecendo as R-Ladies São Paulo](slide-rladies.qmd){target="_blank"} | Tatyane Paz |
+| Slide                                                                  | Ministrante                |
+|------------------------------------------------------------------------|----------------------------|
+| [Conhecendo as R-Ladies São Paulo](slide-rladies.qmd){target="_blank"} | Tatyane Paz                |
+| [O que é o Open Data Day?](slide-open-data-day.qmd){target="_blank"}   | Haydee Svab e Beatriz Milz |

@@ -136,12 +136,11 @@ Primeira edição em novembro/2022.
 
 ![](images/paste-8147A312.png){fig-align="center" width="45%"}
 
-
 ## Blog: rladies-sp.org
 
 -   Textos escritos por pessoas da comunidade
 
-![](images/paste-BECC2A71.png){fig-align="center"}
+[![](images/paste-BECC2A71.png){fig-align="center"}](https://rladies-sp.org/)
 
 ## Saiba mais sobre a R-Ladies
 
@@ -156,7 +155,6 @@ Primeira edição em novembro/2022.
     -   [<i class="fab fa-meetup"></i> Meetup](https://www.meetup.com/rladies-sao-paulo/)
     -   [<i class="fab fa-github"></i> GitHub](https://github.com/R-Ladies-Sao-Paulo)
     -   [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/c/RLadiesSãoPaulo)
-
 
 <!-- inicio font awesome -->
 
