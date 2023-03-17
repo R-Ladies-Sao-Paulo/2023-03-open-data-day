@@ -21,6 +21,41 @@
     "text": "Estacionamento\nExistem estacionamentos pagos nos dois prédios do Insper. Mais informações no site do Insper."
   },
   {
+    "objectID": "slide-open-data-day.html#o-que-é-o-dia-dos-dados-abertos",
+    "href": "slide-open-data-day.html#o-que-é-o-dia-dos-dados-abertos",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que é o Dia dos Dados Abertos?",
+    "text": "O que é o Dia dos Dados Abertos?\n\nÉ uma celebração anual dos dados abertos em todo o mundo.\nGrupos de todas as partes do mundo criam eventos locais no dia em que usarão dados abertos em suas comunidades.\nTodos os resultados são abertos para que todos usem e reusem.\nÉ organizado e apoiado pela Open Knowledge Foundation!\nSaiba mais em: https://opendataday.org/pt_br/ e https://ok.org.br/projetos/open-data-day/"
+  },
+  {
+    "objectID": "slide-open-data-day.html#o-que-são-dados-abertos",
+    "href": "slide-open-data-day.html#o-que-são-dados-abertos",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que são dados abertos?",
+    "text": "O que são dados abertos?\nSegundo a definição da Open Knowledge Foundation, os dados são considerados abertos quando:\n\nQualquer pessoa pode acessar, usar, modificar e compartilhar livremente para qualquer finalidade (sujeito a, no máximo, a requisitos que preservem a proveniência e a sua abertura).\n\n\n\nFonte: https://www.gov.br/governodigital/pt-br/dados-abertos"
+  },
+  {
+    "objectID": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
+    "href": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "Princípios de dados abertos governamentais",
+    "text": "Princípios de dados abertos governamentais\n\n1 - Completos. Todos os dados públicos estão disponíveis. Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso.\n2 - Primários. Os dados são apresentados tais como os coletados na fonte, com o maior nível possível de granularidade e sem agregação ou modificação.\n3 - Atuais. Os dados são disponibilizados o mais rápido possível para preservar o seu valor.\n4 - Acessíveis. Os dados são disponibilizados para o maior alcance possível de usuários e para os propósitos mais variados possíveis.\n\n\nFontes: https://opengovdata.io/ e https://www.gov.br/governodigital/pt-br/dados-abertos"
+  },
+  {
+    "objectID": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais-1",
+    "href": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais-1",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "Princípios de dados abertos governamentais",
+    "text": "Princípios de dados abertos governamentais\n\n5 - Processáveis por máquina. Os dados são razoavelmente estruturados para possibilitar o seu processamento automatizado.\n6 - Acesso não discriminatório. Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro.\n7 - Formatos não proprietários. Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo.\n8 - Livres de licenças. Os dados não estão sujeitos a regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso podem ser permitidas na forma regulada por estatutos.\n\n\nFontes: https://opengovdata.io/ e https://www.gov.br/governodigital/pt-br/dados-abertos"
+  },
+  {
+    "objectID": "slide-open-data-day.html#o-que-é-a-lai",
+    "href": "slide-open-data-day.html#o-que-é-a-lai",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que é a LAI?",
+    "text": "O que é a LAI?\n\nLei de Acesso à Informação\n\nLei Federal Nº 12.527, de 18 de novembro de 2011.\nDecreto Federal Nº 7.724, de 16 de maio de 2012\n\nTransparência Ativa - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.\nTransparência Passiva - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica.\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
+  },
+  {
     "objectID": "slide-rladies.html#o-que-é-a-r-ladies",
     "href": "slide-rladies.html#o-que-é-a-r-ladies",
     "title": "Conhecendo a R-Ladies São Paulo",
@@ -116,7 +151,7 @@
     "href": "slides.html",
     "title": "Slides e materiais",
     "section": "",
-    "text": "Slide\nMinistrante\n\n\n\n\nConhecendo as R-Ladies São Paulo\nTatyane Paz"
+    "text": "Slide\nMinistrante\n\n\n\n\nConhecendo as R-Ladies São Paulo\nTatyane Paz\n\n\nO que é o Open Data Day?\nHaydee Svab e Beatriz Milz"
   },
   {
     "objectID": "alimentacao.html",
