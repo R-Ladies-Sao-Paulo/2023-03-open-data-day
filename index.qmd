@@ -12,6 +12,27 @@ Essa oficina acontecerá presencialmente, em São Paulo, em 18/03/2023.
 
 Inscrições encerradas. As inscrições dos eventos acontecem através da plataforma [Meetup](https://www.meetup.com/rladies-sao-paulo/events/289755187/).
 
+## Cronograma
+
+- 8h30 - Chegada + café colaborativo!
+
+- 9h00 - Abertura: O que é a R-Ladies?
+
+- 9h15 - O que é open data day?
+
+- 9h30 - Explicação da atividade que faremos!
+
+- 10h00 - Trabalho em grupos.
+
+- 12h00 - Almoço
+
+- 13h00 - Voltar do almoço, continuação do trabalho em grupos.
+
+- 14h30 - Compartilhamento de aprendizados, dificuldades e resultados.
+
+- 16h00 - Encerramento.
+
+
 ### Protocolos referentes à COVID-19
 
 Recomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.
