@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Slides e materiais",
-    "section": "",
-    "text": "Slide\nMinistrante\n\n\n\n\nConhecendo as R-Ladies São Paulo\nTatyane Paz"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Análise de dados abertos com R",
-    "section": "",
-    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 18/03/2023.\nInscrições encerradas. As inscrições dos eventos acontecem através da plataforma Meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nTwitter\nInstagram"
-  },
-  {
-    "objectID": "index.html#apoio",
-    "href": "index.html#apoio",
-    "title": "Análise de dados abertos com R",
-    "section": "Apoio",
-    "text": "Apoio"
-  },
-  {
-    "objectID": "apoio.html#apoio-financeiro",
-    "href": "apoio.html#apoio-financeiro",
-    "title": "Apoio",
-    "section": "Apoio financeiro",
-    "text": "Apoio financeiro"
-  },
-  {
     "objectID": "como-chegar.html",
     "href": "como-chegar.html",
     "title": "Como chegar",
@@ -119,6 +91,20 @@
     "text": "Saiba mais sobre a R-Ladies\n\nR-Ladies Global: Website,  Twitter\nR-Ladies São Paulo:\n\n Twitter\n Instagram\n Facebook\n Meetup\n GitHub\n Youtube\n\nCapítulos da R-Ladies no Brasil - Não tem capítulo na sua cidade e quer iniciar um? Saiba como em R-Ladies - How do get involved!\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
   },
   {
+    "objectID": "apoio.html#apoio-financeiro",
+    "href": "apoio.html#apoio-financeiro",
+    "title": "Apoio",
+    "section": "Apoio financeiro",
+    "text": "Apoio financeiro"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides e materiais",
+    "section": "",
+    "text": "Slide\nMinistrante\n\n\n\n\nConhecendo as R-Ladies São Paulo\nTatyane Paz"
+  },
+  {
     "objectID": "alimentacao.html",
     "href": "alimentacao.html",
     "title": "Alimentação",
@@ -138,5 +124,19 @@
     "title": "Alimentação",
     "section": "Lista de restaurantes na proximidade",
     "text": "Lista de restaurantes na proximidade\n\n\n\n\nRestaurante\nDistância em metros\n\n\n\nCharme da Vila\n100\n\n\nDona deôla (restaurante por kilo no Prédio 1 do Insper)\n140\n\n\nSukiya\n350\n\n\nBurguer King\n400"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Análise de dados abertos com R",
+    "section": "",
+    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 18/03/2023.\nInscrições encerradas. As inscrições dos eventos acontecem através da plataforma Meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nTwitter\nInstagram"
+  },
+  {
+    "objectID": "index.html#apoio",
+    "href": "index.html#apoio",
+    "title": "Análise de dados abertos com R",
+    "section": "Apoio",
+    "text": "Apoio"
   }
 ]
