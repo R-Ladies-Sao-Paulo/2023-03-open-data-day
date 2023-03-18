@@ -19,7 +19,7 @@ editor: visual
 
 - [Dados sobre Violência](./meetup-180323.html){target="_blank"} - Fernanda Peres 
 - [Dados ambientais sobre Queimadas](./bdqueimadas_opendataday.pdf){target="_blank"} - Bianca Muniz
-- [Dados educacionais](https://bit.ly/rladies_odd_2023){target="_blank"}  - Ana Carolina Moreno
+- [Dados educacionais](https://bit.ly/rladies_odd_2023){target="_blank"}  - Ana Carolina Moreno. Além disso, existe [esse vídeo](https://www.youtube.com/watch?v=yuwt3Kqzd0o){target="_blank"} sobre dados de microdados de educação.
 - Dados sobre Emprego - Ana Paula Rocha
 - Dados eleitorais - Cecília do Lago
 - Dados prisionais - Thandara Santos
