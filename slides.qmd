@@ -5,8 +5,21 @@ format: html
 editor: visual
 ---
 
++------------------------------------------------------------------------+----------------------------+
 | Slide                                                                  | Ministrante                |
-|------------------------------------------------------|------------------|
++========================================================================+============================+
 | [Conhecendo as R-Ladies São Paulo](slide-rladies.qmd){target="_blank"} | Tatyane Paz                |
++------------------------------------------------------------------------+----------------------------+
 | [O que é o Open Data Day?](slide-open-data-day.qmd){target="_blank"}   | Haydee Svab e Beatriz Milz |
-| [Como será a atividade?](slide-atividade.qmd){target="_blank"}   | Beatriz Milz |
++------------------------------------------------------------------------+----------------------------+
+| [Como será a atividade?](slide-atividade.qmd){target="_blank"}         | Beatriz Milz               |
++------------------------------------------------------------------------+----------------------------+
+
+## Apresentações temáticas
+
+- [Dados sobre Violência](./meetup-180323.html){target="_blank"} - Fernanda Peres 
+- [Dados ambientais sobre Queimadas](./bdqueimadas_opendataday.pdf){target="_blank"} - Bianca Muniz
+- [Dados educacionais](https://bit.ly/rladies_odd_2023){target="_blank"}  - Ana Carolina Moreno
+- Dados sobre Emprego - Ana Paula Rocha
+- Dados eleitorais - Cecília do Lago
+- Dados prisionais - Thandara Santos
