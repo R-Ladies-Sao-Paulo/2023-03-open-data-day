@@ -10,7 +10,7 @@ editor: visual
 +========================================================================+============================+
 | [Conhecendo as R-Ladies São Paulo](slide-rladies.qmd){target="_blank"} | Tatyane Paz                |
 +------------------------------------------------------------------------+----------------------------+
-| [O que é o Open Data Day?](slide-open-data-day.qmd){target="_blank"}   | Haydee Svab e Beatriz Milz |
+| [O que é o Open Data Day?](slide-open-data-day.qmd){target="_blank"}   | Haydee Svab |
 +------------------------------------------------------------------------+----------------------------+
 | [Como será a atividade?](slide-atividade.qmd){target="_blank"}         | Beatriz Milz               |
 +------------------------------------------------------------------------+----------------------------+
