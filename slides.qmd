@@ -5,21 +5,18 @@ format: html
 editor: visual
 ---
 
-+------------------------------------------------------------------------+----------------------------+
-| Slide                                                                  | Ministrante                |
-+========================================================================+============================+
-| [Conhecendo as R-Ladies São Paulo](slide-rladies.qmd){target="_blank"} | Tatyane Paz                |
-+------------------------------------------------------------------------+----------------------------+
-| [O que é o Open Data Day?](slide-open-data-day.qmd){target="_blank"}   | Haydee Svab |
-+------------------------------------------------------------------------+----------------------------+
-| [Como será a atividade?](slide-atividade.qmd){target="_blank"}         | Beatriz Milz               |
-+------------------------------------------------------------------------+----------------------------+
+| Slide                                                                  | Ministrante         |
+|------------------------------------------------------------------------|---------------------|
+| [Conhecendo as R-Ladies São Paulo](slide-rladies.qmd){target="_blank"} | Tatyane Paz         |
+| [O que é o Open Data Day?](slide-open-data-day.qmd){target="_blank"}   | Haydee Svab         |
+| [Dados Abertos (continuação)](./dados-abertos-pt-2.pdf)                | Ana Carolina Moreno |
+| [Como será a atividade?](slide-atividade.qmd){target="_blank"}         | Beatriz Milz        |
 
 ## Apresentações temáticas
 
-- [Dados sobre Violência](./meetup-180323.html){target="_blank"} - Fernanda Peres 
-- [Dados ambientais sobre Queimadas](./bdqueimadas_opendataday.pdf){target="_blank"} - Bianca Muniz
-- [Dados educacionais](https://bit.ly/rladies_odd_2023){target="_blank"}  - Ana Carolina Moreno. Além disso, existe [esse vídeo](https://www.youtube.com/watch?v=yuwt3Kqzd0o){target="_blank"} sobre dados de microdados de educação.
-- [Dados sobre Emprego](./RLadies_Opendata_mar23.pdf) - Ana Paula Rocha
-- Dados eleitorais - Cecília do Lago
-- Dados prisionais - Thandara Santos
+-   [Dados sobre Violência](./meetup-180323.html){target="_blank"} - Fernanda Peres
+-   [Dados ambientais sobre Queimadas](./bdqueimadas_opendataday.pdf){target="_blank"} - Bianca Muniz
+-   [Dados educacionais](https://bit.ly/rladies_odd_2023){target="_blank"} - Ana Carolina Moreno. Além disso, existe [esse vídeo](https://www.youtube.com/watch?v=yuwt3Kqzd0o){target="_blank"} sobre dados de microdados de educação.
+-   [Dados sobre Emprego](./RLadies_Opendata_mar23.pdf) - Ana Paula Rocha
+-   Dados eleitorais - Cecília do Lago
+-   Dados prisionais - Thandara Santos
