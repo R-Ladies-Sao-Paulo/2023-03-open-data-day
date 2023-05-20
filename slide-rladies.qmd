@@ -1,8 +1,10 @@
 ---
 title: "Conhecendo a R-Ladies São Paulo"
-subtitle: "Análise de Dados Abertos com R"
+# subtitle: "Análise de Dados Abertos com R"
+subtitle:  "Maio de 2023"
 author: "[R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/)"
-date: "2023-03-18"
+# date: "2023-05-20"
+# date: "2023-03-18"
 format: 
   rladies-revealjs:
     footer: "Slides feitos com [Quarto](https://quarto.org/docs/presentations/revealjs/index.html) e [Quarto R-Ladies Theme](https://github.com/beatrizmilz/quarto-rladies-theme#quarto-r-ladies-theme)."
@@ -149,6 +151,7 @@ Primeira edição em novembro/2022.
 -   R-Ladies São Paulo:
 
     -   Blog: <https://rladies-sp.org/>
+    -   [<i class="fab fa-linkedin"></i> Linkedin](https://www.linkedin.com/company/r-ladies-sao-paulo/)
     -   [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/RLadiesSaoPaulo)
     -   [<i class="fab fa-instagram"></i> Instagram](https://instagram.com/RLadiesSaoPaulo)
     -   [<i class="fab fa-facebook"></i> Facebook](https://facebook.com/RLadiesSaoPaulo)
